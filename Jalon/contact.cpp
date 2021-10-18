@@ -5,6 +5,8 @@ Contact::Contact()
 
 }
 
+et la ??
+
 Contact::~Contact(){
     //telephone.clear() ;
     //linteractions.clear() ;
