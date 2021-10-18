@@ -6,10 +6,7 @@ Contact::Contact()
 }
 
 
-
-et la ??? 
-la c'est bon 
-           test de modification du script
+c'est bizarre
 
 Contact::~Contact(){
     //telephone.clear() ;
