@@ -6,8 +6,6 @@ Contact::Contact()
 }
 
 
-c'est bizarre
-
 Contact::~Contact(){
     //telephone.clear() ;
     //linteractions.clear() ;
