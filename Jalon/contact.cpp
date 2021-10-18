@@ -11,6 +11,8 @@ Contact::~Contact(){
     //delete creation ;
 }
 
+modification test
+
 string Contact::get_nom() const{
     return nom ;
 }
